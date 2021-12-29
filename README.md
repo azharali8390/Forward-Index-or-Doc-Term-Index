@@ -1,4 +1,4 @@
-# Forward-Index-or-Doc-Term-Index
+# Forward-Index-or-Doc-Term-Index in JAVA language
 Language used for this project is Java.
 
 The test file is a driver program and reading file is implementation of the code.
